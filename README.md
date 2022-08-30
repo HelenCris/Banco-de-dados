@@ -59,10 +59,12 @@
     
   - DDL(Linguagem de Definição de Dados)
       * Comandos DDL
+      
         Conjunto de comandos responsáveis pela criação, alteração e deleção da estrutura das tabelas e índices de um sistema.
         - Formado por tabelas.
         - Linhas representam os registros(tuplas).
         - Colunas representam atributos(campos).
+        
         Os comandos DDL são: 
           * CREATE - Criação de estrutura.
           * ALTER - Alterar estrutura.
@@ -106,6 +108,7 @@
       Consiste em SGBD não relacionais projetados para gerenciar grandes volumes de dados e que disponibilizam estruturas e interfaces de acesso simples.
       
    - Linguagem NoSQL -MongoDB
+   
      MongoDB é um Banco de Dados orientado a documentos. Possui alta performance, não possui esquemas, JSON.
      
       
